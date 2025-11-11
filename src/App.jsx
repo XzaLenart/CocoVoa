@@ -30,7 +30,7 @@ function App() {
             Dari pangan lokal jadi solusi global untuk masyarakat menuju generasi tumbuh sehat.
           </p>
           <a 
-            href="#program" 
+            href="program" 
             className="bg-orange-500 text-white font-bold py-3 px-8 rounded-full shadow-lg text-lg
                        transition-all duration-300 transform 
                        hover:bg-orange-600 hover:scale-105 hover:shadow-xl"
