@@ -184,7 +184,7 @@ function App() {
           </p>
 
           <a 
-            href="mailto:emailanda@cocovoa.com"
+            href="mailto:cocovoa10@gmail.com"
             className="inline-flex items-center justify-center bg-green-600 text-white font-bold py-3 px-10 rounded-full shadow-lg text-lg
                        transition-all duration-300 transform 
                        hover:bg-green-700 hover:scale-105 hover:shadow-xl"
